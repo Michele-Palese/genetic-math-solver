@@ -1,4 +1,4 @@
-# Genetci Algorithm for numeric Optimization Problem 
+# Genetic Algorithm for numeric Optimization Problem 
 A simple Python-based evolutionary algorithm that evolves mathematical expressions to approximate a target value. This project demonstrates core concepts of genetic programming such as selection, crossover, and mutation using custom-defined expressions built from random numbers and operators.
 
 ## Featueres

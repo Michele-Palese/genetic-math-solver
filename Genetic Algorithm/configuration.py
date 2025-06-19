@@ -1,0 +1,10 @@
+OPERATION_SET = ['+', '-', '*', '/']
+A = 0
+B = 10
+MUTATION_RATE = 0.1
+TARGET = 42
+MIN_SIZE = 5  # dimensione minima possibile
+MAX_SIZE = 15  # dimensione massima possibile
+POPULATION_SIZE = 1000
+N_ITERATIONS = 1000
+PATIENCE = 20
